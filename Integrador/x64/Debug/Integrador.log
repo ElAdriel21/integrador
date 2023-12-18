@@ -1,0 +1,8 @@
+﻿  Integrador.cpp
+C:\Users\usuario\Desktop\sfml\Integrador\Integrador\game.h(117,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\usuario\Desktop\sfml\Integrador\Integrador\game.h(117,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  game.cpp
+C:\Users\usuario\Desktop\sfml\Integrador\Integrador\game.h(117,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\usuario\Desktop\sfml\Integrador\Integrador\game.h(117,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Integrador.vcxproj -> C:\Users\usuario\Desktop\sfml\Integrador\x64\Debug\Integrador.exe
